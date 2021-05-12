@@ -17,3 +17,26 @@ in our dictionary.
 After each word is translated, we then
 Print out the translated sentence to the user.
 """
+
+
+"""
+main():
+    set sentence = input()
+    set dictionary = translate()
+    translate(sentence, dictionary)
+
+translate(sentence, dictionary):
+    word = for each of the world in the sentence
+    for each words, tranlate the word
+    print translated sentence to user
+
+create_dictorionary(infile):
+    read in textese.txt
+    create list = each line from file
+    close the file
+    create a dict off of the list
+    return the dict
+
+main()
+"""
+
